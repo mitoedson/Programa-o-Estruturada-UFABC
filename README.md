@@ -1,12 +1,13 @@
-01. Introdução ao C
+<h2>1. Introdução ao C</h2>
 
-Material do curso:
+<p><b>Material do curso:</b>
 
 
-Listas de exercícios: 
-Potências de 2
-Dígitos ímpares
-Percentual de múltiplos de 10Laboratório Virtual de Programação 
-Valor da funçãoLaboratório Virtual de Programação 
-Verificar ordenaçãoLaboratório Virtual de Programação 
-ExpressãoLaboratório Virtual de Programação
+<p><b>Listas de exercícios: </b>
+<p>
+Potências de 2<br>
+Dígitos ímpares<br>
+Percentual de múltiplos de 10<br>
+Valor da função<br>
+Verificar ordenação<br>
+Expressão<br>
