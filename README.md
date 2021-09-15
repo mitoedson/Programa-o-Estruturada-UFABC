@@ -12,14 +12,17 @@ https://github.com/mitoedson/Programa-o-Estruturada-UFABC/blob/01.-Introdu%C3%A7
 <b>Percentual de múltiplos de 10</b><br>
 <p>  
 <b>Valor da função</b><br>
+Escreva um programa que leia os valores inteiros de n e m, e então imprima o valor da função definida a seguir:  <br>
+![image](https://user-images.githubusercontent.com/89589245/133447632-1f84a1d4-ba59-46bd-ae6e-6d39d2fab7c5.png)
+
 <p>  
 <b>Verificar ordenação</b><br>
 Escreva um programa que fique lendo uma sequência de números inteiros com uma quantidade indeterminada de números. O programa deve ler números até que seja lido um número negativo. Quando a leitura for finalizada, o programa deve imprimir se a sequência de números lidos está ordenada em ordem crescente, descrescente ou não ordenada (considere que o valor negativo não faz parte da sequência para verificar a ordenação). A sequência de números pode conter números repetidos, mas haverá pelo menos dois números diferentes na sequência.
 <p>
 Por exemplo:
 <p>
-- para a sequência 10 20 30 40 50 -99, o programa deve imprimir "CRESCENTE"
-- para a sequência 50 40 30 20 10 -99, o programa deve imprimir "DECRESCENTE".
+- para a sequência 10 20 30 40 50 -99, o programa deve imprimir "CRESCENTE"<br>
+- para a sequência 50 40 30 20 10 -99, o programa deve imprimir "DECRESCENTE".<br>
 - para a sequência 30 20 50 10 20 -99, o programa deve imprimir "NAO ORDENADA".
 <p>
 Importante: não é permitido o uso de vetor e stdlib.h para resolver este exercício.  
