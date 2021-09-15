@@ -54,25 +54,23 @@ Escreva um programa que leia uma expressão aritmética com as operações +, -,
 <p>
 Não haverá espaços em branco entre os operandos e os operadores e também não haverá parênteses na equação. Lembre-se de seguir as regras de precedência (multiplicação e divisão devem ser realizadas antes de soma e subtração). Todos os operandos serão valores positivos, portanto, 8+-7 não é uma expressão válida. O resultado da expressão deve ser um número inteiro, ou seja, todas as operações são efetuadas com números inteiros.
 <p>
-Exemplos<br>
-Teste 1
+Exemplos
 <p>
+TESTE 1<br>
 Entrada:<br>
 1+2*3=
 <p>
 Saída:<br>
 7
 <p>
-Teste 2
-<p>
+TESTE 2<br>
 Entrada:<br>
 300-20*10=
 <p>
 Saída:<br>
 100
 <p>
-Teste 3<br>
-<p>
+TESTE 3<br>
 Entrada:<br>
 3*3+2+3*9+7=
 <p>
