@@ -1,6 +1,6 @@
 <h1>Programação Estruturada, UFABC QS 2021.3</h1>
 
-<h3Prof. Paulo Henrique Pisani</h3>
+<h3>Prof. Paulo Henrique Pisani</h3>
 
 Exercícios, materiais de apoio utilizados durante a disciplina.
 
