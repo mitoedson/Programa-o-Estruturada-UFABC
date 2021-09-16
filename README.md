@@ -1,4 +1,6 @@
-<h4>Programação Estruturada, da UFABC QS 2021.3, Prof. Paulo Henrique Pisani.</h4>
+<h1>Programação Estruturada, UFABC QS 2021.3</h1>
+
+<h3Prof. Paulo Henrique Pisani</h3>
 
 Exercícios, materiais de apoio utilizados durante a disciplina.
 
