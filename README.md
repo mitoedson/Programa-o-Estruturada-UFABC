@@ -1,7 +1,7 @@
 <h1>02. Introdução ao C</h1>
 <h3>Listas produzidas</h3>:
 
-<h4>Códigos de produtos:</h4>
+<h4>1. Códigos de produtos:</h4>
 Uma empresa registra o código de cada produto vendido ao longo do dia em uma lista. O gerente gostaria que, ao adicionar um código na lista, essa lista se mantenha ordenada (em ordem crescente). Dessa forma, ao final do dia, é mais fácil verificar quais produtos foram vendidos.
 <p>
 Faça um programa que fique lendo códigos de produtos (números inteiros):
@@ -22,7 +22,7 @@ Digite: 7<br>
 Digite: -1
   
   
-<h4>Sequência de números</h4>  
+<h4>2. Sequência de números</h4>  
 Implemente a função verificar_sequencia, que recebe um vetor de inteiros vetor1, um valor n1 que representa o tamanho do vetor1, um vetor de inteiros vetor2, e um valor n2 que representa o tamanho do vetor2. A função deve retornar a quantidade de vezes que a sequência de valores do vetor2 aparece no vetor1. Por exemplo, para vetor1=[11 22 33 88 11 22 33 11 22 33 11 22] e vetor2=[11 22 33], a função deve retornar 3, pois a sequência [11 22 33] aparece 3 vezes no vetor1.
 <p>
 Protótipo da função:
