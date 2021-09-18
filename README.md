@@ -45,7 +45,7 @@ vetor 2<br>
 retorno da função verificar_sequencia  
 
   
-<h4>Números únicos</h4>  
+<h4>3. Números únicos</h4>  
 Implemente a função qtd_numeros_unicos, que recebe um vetor de inteiros v e um valor n que representa o tamanho do vetor v. A função deve retornar a quantidade de números únicos no vetor. Por exemplo, o vetor [11 11 11 22 22 11 33 44 44 44] tem 4 números únicos: 11, 22, 33 e 44. Portanto, o retorno da função seria o valor 4 neste caso. Assuma que o vetor pode possuir apenas números positivos na faixa [1; 1000].
 <p>
 Protótipo da função:
