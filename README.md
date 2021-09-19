@@ -63,7 +63,7 @@ Saída:<br>
 vetor de entrada<br>
 retorno da função qtd_numeros_unicos  
   
-<h4>Compactação de vetor</h4>
+<h4>4. Compactação de vetor</h4>
 
 Implemente a função compactar_vetor, que recebe um vetor de inteiros v e um valor n que representa o tamanho do vetor v. A função deve realizar a compactação dos valores seguindo um conceito similar à compressão Runlength. A compactação deve substituir cada valor no vetor por dois números: um com o valor e outro com a quantidade de vezes que o valor aparece de forma consecutiva.
 <p>
@@ -87,4 +87,5 @@ Saída:<br>
 vetor de entrada<br>
 vetor após chamar a função compactar_vetor
   
+<h4>5. Maior palíndromo</h4>
   
