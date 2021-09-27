@@ -1,12 +1,13 @@
-<h1>Programação Estruturada, UFABC QS4 2021.3</h1>
+<h1>03. String, Matrizes</h1>
+<h3>Listas produzidas</h3>:
 
-Exercícios, materiais de apoio utilizados durante a disciplina do Prof. Paulo Henrique Pisani.
-
-<b>01. Introdução ao C</b><br>
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/01.-Introdu%C3%A7%C3%A3o-ao-C
-
-<p><b>02. Vetores, funções e passagem de parâmetros</b><br>
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/02.-Vetores%2C-fun%C3%A7%C3%B5es-e-passagem-de-par%C3%A2metros
-
-<p><b>03. String, Matrizes</b><br>
-
+<h4>1. Conta palavras:</h4>
+Faça um programa que leia uma frase (no máximo 100 caracteres) e imprima a quantidade de palavras na frase lida.
+<p>
+Entrada:<br>
+Este eh um teste.
+<p>
+Saída:<br>
+4
+<p>
+Importante: Não use variáveis globais. Não use headers adicionais (por exemplo, string.h e stdlib.h). Apenas stdio.h é permitido.
