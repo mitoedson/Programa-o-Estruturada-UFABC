@@ -44,12 +44,12 @@ Exemplo de como a leitura da string é realizada e depois passada para a funçã
 #include <stdio.h>
 
 int main() {
-    char texto[101];
-    fgets(texto, 101, stdin);
+  char texto[101];
+  fgets(texto, 101, stdin);
     
-    int ret = verificar_ordenacao_tamanho(texto);
-    printf("verificar_ordenacao_tamanho = %d\n", ret);
-    return 0;
+  int ret = verificar_ordenacao_tamanho(texto);
+  printf("verificar_ordenacao_tamanho = %d\n", ret);
+  return 0;
 }
 </pre>
 Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
