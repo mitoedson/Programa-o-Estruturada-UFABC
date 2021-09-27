@@ -27,7 +27,7 @@ Importante: submeta apenas a função. Não use variáveis globais. Não inclua 
   
 <h4>03. Verificar ordenação do tamanho das palavras</h4>
 Implemente a função verificar_ordenacao_tamanho, que recebe uma string texto. A função deve verificar as palavras na string texto estão ordenadas pelo tamanho (quantidade de caracteres da palavra). A função deve retornar 1 se as palavras estiverem ordenadas em ordem crescente, retornar 2 se estiverem ordenadas em ordem descrescente ou retornar 3 se não estiverem ordenadas. Cada palavra na string texto é separada por um caractere espaço. A string texto pode possuir palavras com o mesmo tamanho, mas haverá pelo menos duas palavras com tamanhos diferentes na string.
-<p>
+<p><br>
 Por exemplo:<br>
 para a string "vetor ordenacao programacao", a função deve retornar 1<br>
 para a string "programacao ordenacao vetor", a função deve retornar 2<br>
@@ -52,7 +52,6 @@ int main() {
     return 0;
 }
 </pre>
-<p>
 Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
 <p>
 Entrada:<br>
