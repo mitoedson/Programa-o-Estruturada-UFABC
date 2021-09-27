@@ -9,4 +9,4 @@ https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/01.-Introdu%C3%A7
 https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/02.-Vetores%2C-fun%C3%A7%C3%B5es-e-passagem-de-par%C3%A2metros
 
 <p><b>03. String, Matrizes</b><br>
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/blob/03.-String,-Matrizes/README.md
+https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/03.-String%2C-Matrizes
