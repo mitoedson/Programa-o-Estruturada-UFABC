@@ -17,7 +17,7 @@ Escreva uma função que receba uma matriz quadrada e verifique se a matriz é e
 <p>
 Uma matriz A é estritamente diagonal dominante por linhas se, em todas as linhas da matriz, o módulo do valor na diagonal principal é maior que a soma dos módulos dos demais valores da linha (no somatório: i: índice da linha, j: índice da coluna; n é a quantidade de colunas).
 <p>
-Fórmula:
+Fórmula:<br>
 ![image](https://user-images.githubusercontent.com/89589245/134942664-c0913f56-03b3-4ef0-9de3-c4033dabc100.png)
 <p>
 Protótipo da função:<br>
