@@ -3,7 +3,7 @@
 
 <h4>1. Conta palavras:</h4>
 Faça um programa que leia uma frase (no máximo 100 caracteres) e imprima a quantidade de palavras na frase lida.
-<p>
+<p><br>
 Entrada:<br>
 Este eh um teste.
 <p>
@@ -12,7 +12,7 @@ Saída:<br>
 <p>
 Importante: Não use variáveis globais. Não use headers adicionais (por exemplo, string.h e stdlib.h). Apenas stdio.h é permitido.
 
-<h4>Diagonal dominante</h4>
+<h4>02. Diagonal dominante</h4>
 Escreva uma função que receba uma matriz quadrada e verifique se a matriz é estritamente diagonal dominante por linhas. Retorne 1 se for estritamente dominante por linhas e 0 caso contrário.
 <p>
 Uma matriz A é estritamente diagonal dominante por linhas se, em todas as linhas da matriz, o módulo do valor na diagonal principal é maior que a soma dos módulos dos demais valores da linha (no somatório: i: índice da linha, j: índice da coluna; n é a quantidade de colunas).
