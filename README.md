@@ -63,7 +63,7 @@ Retorno da função verificar_ordenacao_tamanho
 
 <h4>04. Quantidade de matrizes</h4>
 Escreva um programa que leia duas matrizes que contém números inteiros: matriz 1 e matriz 2. Depois de ler os dados das duas matrizes, o programa devo imprimir a quantidade de vezes que matriz 2 aparece dentro da matriz 1.
-<p>
+<p><br>
 Entrada do programa:<br>
 [Número de linhas da matriz 1] [Número de colunas da matriz 1]<br>
 Valores da matriz 1, linha por linha<br>
