@@ -72,3 +72,28 @@ Valores da matriz 2, linha por linha
 <p>
 Saída:<br>
 Quantidade de vezes que matriz 2 aparece dentro da matriz 1
+
+<h4>05. Remover palavra</h4>
+Implemente uma função que receba uma string (vetor de caracteres) contendo uma frase e remova a palavra de índice i do vetor passado no parâmetro frase da função. Considere que a primeira palavra tem índice 1. Ao remover uma palavra, é necessário remover caracteres espaço adjacentes à palavra removida. A string de entrada possui no máximo 100 caracteres e pode conter pontuação.
+<p>
+Importante: submeta apenas a função. Não use variáveis globais. Não inclua o main. Não use printf/fprintf/puts/gets/fgets/scanf/fscanf e headers adicionais (por exemplo, stdio.h, stdlib.h e string.h).
+<p><br>
+Protótipo da função:<br>
+void remover_palavra(int i, char frase[]);
+<p><br>
+Exemplo de teste 1:
+<p>
+Entrada:<br>
+3<br>
+Primeira frase de teste
+<p>
+Saída:<br>
+Primeira frase teste
+<p>
+Exemplo de teste 2:
+<p>
+Entrada:<br>
+2<br>
+Neste exercicio, a funcao envolve uso de string.
+<p>Saída:<br>
+Neste, a funcao envolve uso de string.
