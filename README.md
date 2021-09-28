@@ -1,7 +1,7 @@
 <h1>03. String, Matrizes</h1>
 <h3>Listas produzidas</h3>:
 
-<h4>1. Conta palavras:</h4>
+<h4>01. Conta palavras:</h4>
 Faça um programa que leia uma frase (no máximo 100 caracteres) e imprima a quantidade de palavras na frase lida.
 <p><br>
 Entrada:<br>
@@ -61,13 +61,8 @@ Saída:<br>
 Retorno da função verificar_ordenacao_tamanho
 
 
-<h4>4. Quantidade de matrizes</h4>
+<h4>04. Quantidade de matrizes</h4>
 Escreva um programa que leia duas matrizes que contém números inteiros: matriz 1 e matriz 2. Depois de ler os dados das duas matrizes, o programa devo imprimir a quantidade de vezes que matriz 2 aparece dentro da matriz 1.
-<p>
-Por exemplo, considere as matrizes a seguir:
-
-<p>
-Nesse exemplo, a matriz 2 aparece 3 vezes na matriz 1. Portanto, nesse caso, o programa deve imprimir o valor 3.
 <p>
 Entrada do programa:<br>
 [Número de linhas da matriz 1] [Número de colunas da matriz 1]<br>
