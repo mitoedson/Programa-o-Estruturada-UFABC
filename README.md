@@ -28,4 +28,15 @@ long superfatorial(int n);
 Importante: submeta apenas a função. Não use variáveis globais. Não inclua o main e não use printf/puts nas funções submetidas.
 <p>
 Exercício adaptado de: Prof. Thiago F. Covões - Programação Estruturada - 2019
+
+<h4>03. Dec2Bin:</h4>    
+Desenvolva uma função recursiva para converter um número natural em base decimal para base binária. O número retornado pela função deve ser um número inteiro em que os dígitos 0 e 1 são usados para representar o número binário. Por exemplo, para o número 14, a função deve retornar 1110. Para o número 7, a função deve retornar 111.
+<p>
+A função deve ter o seguinte protótipo:
+<p>
+int dec2bin(int n_decimal);<br>
+Importante: submeta apenas a função dec2bin. Não use variáveis globais. Não inclua o main e não use printf/puts nas funções submetidas.
+<p>
+Exercício adaptado de: Prof. Thiago F. Covões - Programação Estruturada - 2019
+  
   
