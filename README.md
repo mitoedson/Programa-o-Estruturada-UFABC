@@ -39,4 +39,43 @@ Importante: submeta apenas a função dec2bin. Não use variáveis globais. Não
 <p>
 Exercício adaptado de: Prof. Thiago F. Covões - Programação Estruturada - 2019
   
+<h4>04. Multiplicação russa:</h4>      
+Implemente uma função recursiva chamada multiplicacao_russa que recebe dois números inteiros e retorne a sua multiplicação. Utilize o método de multiplicação à Russa ou multiplicação Etíope. Uma descrição informal do método é:
+<p>
+Escreva os números A e B, que se deseja multiplicar na parte superior das colunas.
+Dividir A por 2, sucessivamente, ignorando o resto até chegar à unidade, escrever os resultados da coluna A.
+Multiplicar B por 2 tantas vezes quantas se haja dividido A por 2, escrever os resultados sucessivos na coluna B.
+Somar todos os números da coluna B que estejam ao lado de um número ímpar da coluna A.
+<p>
+Exemplo 1: multiplicação 123 x 21 = 2583 (21+42+168+336+672+1344)
+<p>
+A	B
+123	21
+61	42
+30	84
+15	168
+7	336
+3	672
+1	1344
+<p>  
+Exemplo 2: multiplicação 150 x 4 = 600 (8+16+64+512)
+<p>
+A	B
+150	4
+75	8
+37	16
+18	32
+9	64
+4	128
+2	256
+1	512
+<p>
+A função deve ter o seguinte protótipo:
+<p>
+int multiplicacao_russa(int a, int b);
+<p>
+Importante: submeta apenas a função. Não use variáveis globais. Não inclua o main e não use printf/puts nas funções submetidas.
+<p>
+Exercício adaptado de: Prof. Thiago F. Covões - Programação Estruturada - 2019
+  
   
