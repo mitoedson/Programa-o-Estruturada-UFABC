@@ -1,12 +1,15 @@
-<h1>Programação Estruturada, UFABC QS4 2021.3</h1>
+<h1>04. Recursão</h1>
+<h3>Listas produzidas</h3>:
 
-Exercícios, materiais de apoio utilizados durante a disciplina do Prof. Paulo Henrique Pisani.
-
-<b>01. Introdução ao C</b><br>
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/01.-Introdu%C3%A7%C3%A3o-ao-C
-
-<p><b>02. Vetores, funções e passagem de parâmetros</b><br>
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/02.-Vetores%2C-fun%C3%A7%C3%B5es-e-passagem-de-par%C3%A2metros
-
-<p><b>03. String, Matrizes</b><br>
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/03.-String%2C-Matrizes
+<h4>01. Conta frequência:</h4>
+Desenvolva uma função recursiva contafreq que recebe dois números naturais e indique a frequência com que o segundo número aparece no primeiro. O segundo número sempre será menor do que 10.
+<p>
+Por exemplo, contafreq(12343, 3) = 2.
+<p>
+A sua função deverá ter o seguinte protótipo:
+<p>
+int contafreq(int num, int digito);<br>
+Importante: submeta apenas a função. Não use variáveis globais. Não inclua o main e não use printf/puts nas funções submetidas.
+<p>
+Exercício adaptado de: Prof. Thiago F. Covões - Programação Estruturada - 2019
+  
