@@ -150,16 +150,17 @@ Entrada<br>
 <p>
 Saída<br>
 -80.00
-
-Exemplo 3
-Entrada
-6
-0 1 4 3 -1 0
-2 2 0 0 2 -1
--1 0 3 2 0 0
-2 0 0 1 0 0
-5 2 5 -3 3 0
+<p>
+  Exemplo 3
+  <p>
+Entrada<br>
+6<br>
+0 1 4 3 -1 0<br>
+2 2 0 0 2 -1<br>
+-1 0 3 2 0 0<br>
+2 0 0 1 0 0<br>
+5 2 5 -3 3 0<br>
 0 -1 5 5 5 -1
-Saída
-
+<p>
+    Saída<br>
 25.00
