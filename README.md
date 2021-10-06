@@ -89,7 +89,7 @@ Determinante é uma função que transforma uma matriz quadrada em um número re
 O determinante de uma matriz de ordem 1 (apenas um elemento) é o único elemento da matriz.
 Para matrizes maiores, pode-se calcular o determinante com a seguinte fórmula:
 <p>
-det(A)=∑j=1nai,j×(−1)i+jdet(Ai,j)
+(Fórmula de Laplace)
 <p>
 onde n é a ordem da matriz, ai,j é o elemento da posição i, j da matriz de entrada A, e Ai,j é a matriz que se obtém eliminando a linha i e a coluna j da matriz A, e i é uma constante, considere que sempre a primeira linha será removida neste exercício.
 <p>
