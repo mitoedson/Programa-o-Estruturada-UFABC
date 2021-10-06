@@ -131,6 +131,7 @@ Você deve utilizar a função auxiliar remove_primeira_linha_e_coluna_c na fun�
 Não é permitido utilizar nenhum header adicional (apenas stdio.h e determinante.h são permitidos).
 <p>
 Exemplo 1
+  <p>
 Entrada<br>
 2<br>
 0 2<br>
