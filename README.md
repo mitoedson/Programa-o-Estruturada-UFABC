@@ -1,18 +1,21 @@
-<h1>Programação Estruturada, UFABC QS4 2021.3</h1>
+<h1>05. Ponteiros</h1>
+<h3>Listas produzidas</h3>:
 
-Exercícios, materiais de apoio utilizados durante a disciplina do Prof. Paulo Henrique Pisani.
+<h4>01. Valor da função (parâmetro por referência):</h4>
 
-<b>01. Introdução ao C</b><br>
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/01.-Introdu%C3%A7%C3%A3o-ao-C
-
-<p><b>02. Vetores, funções e passagem de parâmetros</b><br>
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/02.-Vetores%2C-fun%C3%A7%C3%B5es-e-passagem-de-par%C3%A2metros
-
-<p><b>03. String, Matrizes</b><br>
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/03.-String%2C-Matrizes
-
-<p><b>04. Recursão</b><br>
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/04.-Recurs%C3%A3o
-  
-<p><b>05. Ponteiros</b><br>  
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/05.-Ponteiros  
+Implemente a função valor_funcao, que recebe um valor inteiro m, um valor inteiro n e um ponteiro para um valor inteiro resultado. A função deve calcular o valor da função matemática a seguir e retornar o valor por meio do parâmetro resultado.
+<p>
+f(m,n)=∑j=1m((j+1)2+10×∑k=1n(j+k)2)
+<p>
+Protótipo da função:
+<p>
+void valor_funcao(int m, int n, int *resultado);<br>
+Importante: submeta apenas a função. Não use variáveis globais. Não inclua o main. Não use printf/fprintf/puts/gets/fgets/scanf/fscanf e headers adicionais (por exemplo, stdio.h e stdlib.h).
+<p>
+Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
+<p>
+Entrada:<br>
+valores m e n
+<p>
+Saída:<br>
+retorno da função valor_funcao obtido por meio do parâmetro resultado
