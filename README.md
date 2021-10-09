@@ -19,3 +19,51 @@ valores m e n
 <p>
 Saída:<br>
 retorno da função valor_funcao obtido por meio do parâmetro resultado
+
+  
+<h4>02. Ordena argumentos:</h4>  
+Escreva uma função que ordena os argumentos passados nos parâmetros.
+<p>
+A função deve ter o seguinte protótipo:
+<p>
+void ordena(int *a, int *b, int *c);
+<p>
+Os valores A, B e C referenciados pelos parâmetros a, b e c devem ser trocados, caso necessário, para que A <= B <= C.
+<p>
+Importante: submeta apenas a função. Não use variáveis globais. Não inclua o main. Não use printf/puts e headers adicionais (por exemplo, stdio.h e stdlib.h).
+<p>
+Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
+<p>
+Entrada:<br>
+valores de *a, *b e *c
+<p>
+Saída:<br>
+valores de *a, *b e *c após a execução da função ordena.
+<p>
+Exemplo 1
+<p>
+Entrada<br>
+1 2 3
+<p>
+Saída<br>
+1 2 3
+<p>
+Exemplo 2
+<p>  
+Entrada<br>
+2 3 1
+<p>
+Saída<br>
+1 2 3
+<p>
+Exemplo 3
+<p>
+Entrada<br>
+3 2 1
+<p>
+Saída<br>
+1 2 3
+<p>
+Exercício de: Prof. Fernando Teubl - Programação Estruturada - 2020
+  
+  
