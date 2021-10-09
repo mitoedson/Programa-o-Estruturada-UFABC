@@ -66,4 +66,29 @@ Saída<br>
 <p>
 Exercício de: Prof. Fernando Teubl - Programação Estruturada - 2020
   
+
+<h4>03. Estatísticas- Frases</h4>  
+Escreva uma função que recebe uma frase e retorne o valor de algumas estatísticas sobre os comprimentos das palavras na frase. O retorno será realizado por parâmetros passados por referência. As frases podem conter pontuação.
+<p>
+Protótipo da função:<br>
+void estatisticas_frase(char frase[], int *min, int *max, int *soma, double *media, double *desvio);
+<p>
+Valores que devem ser retornados:<br>
+min: comprimento da menor palavra<br>
+max: comprimento da maior palavra<br>
+soma: soma dos comprimentos de todas as palavras<br>
+media: média dos comprimentos das palavras<br>
+desvio: desvio padrão (std) dos comprimentos das palavras, conforme fórmula a seguir, em que xi é o comprimento de palavra i e n é a quantidade de palavras na frase:<br>
+std=1n∑i=1n(xi−média)2−−−−−−−−−−−−−−−√
+<p>
+Importante: submeta apenas a função. Não use variáveis globais. Não inclua o main. Não use printf/puts/fprintf/fscanf e headers adicionais (por exemplo, stdio.h, stdlib.h e string.h). Neste exercício, pode usar a função sqrt de math.h.
+<p>
+Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
+<p>
+Entrada:<br>
+frase
+<p>
+Saída:<br>
+valores das estatísticas após executar a função estatisticas_frase
+  
   
