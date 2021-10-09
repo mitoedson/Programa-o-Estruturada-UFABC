@@ -91,7 +91,7 @@ frase
 Saída:<br>
 valores das estatísticas após executar a função estatisticas_frase
   
-<h4>03. Conta linhas:</h4>    
+<h4>04. Conta linhas:</h4>    
 Escreva uma função que recebe um texto e uma largura de linha. A função deve calcular a quantidade de linhas necessárias para imprimir o texto passada para a função. O retorno da quantidade de linhas será por referência, no parâmetro qtd_linhas.
 <p>
 Protótipo da função:<br>
