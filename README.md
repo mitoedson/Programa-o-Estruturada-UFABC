@@ -13,3 +13,6 @@ https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/03.-String%2C-Mat
 
 <p><b>04. Recursão</b><br>
 https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/04.-Recurs%C3%A3o
+
+<p><b>05. Ponteiros</b><br>  
+https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/05.-Ponteiros
