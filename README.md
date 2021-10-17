@@ -14,5 +14,8 @@ https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/03.-String%2C-Mat
 <p><b>04. Recursão</b><br>
 https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/04.-Recurs%C3%A3o
 
-<p><b>05. Ponteiros</b><br>  
-https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/05.-Ponteiros
+<p><b>05. Ponteiros - parte 1</b><br>  
+https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/05.-Ponteiros---parte-1
+
+<p><b>06. Ponteiros - parte 2</b><br>  
+https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/05.-Ponteiros---parte-2
