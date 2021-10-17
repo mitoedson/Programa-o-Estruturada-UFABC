@@ -25,7 +25,7 @@ elementos do vetor de retorno
   
 <h4>02. Intercala vetores:</h4>  
 Escreva um programa que leia dois vetores de inteiros. Assuma que os dois vetores estão ordenados em ordem crescente. Depois, o programa deve imprimir todos os números lidos em ordem crescente, intercalando os valores dos dois vetores. Por exemplo, se os vetores lidos forem [1, 5, 8, 12, 90] e [2, 5, 7, 46], o programa deverá imprimir 1, 2, 5, 5, 7, 8, 12, 46, 90.
-<p>
+<p><br>
 Entrada:<br>
 n1 (quantidade de elementos no vetor 1)<br>
 elementos do vetor 1<br>
