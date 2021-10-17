@@ -3,7 +3,7 @@
 
 <h4>01. Vetor com valores duplicados:</h4>
 Escreva a função duplica_impares, que recebe um vetor de inteiros (v) de comprimento n_entrada e retorna outro vetor com todos os números ímpares duplicados. A função também retorna (por referência) a quantidade de elementos no vetor retornado (n_retorno).
-<p>
+<p><br>
 Por exemplo, se o vetor v for [11, 22, 33, 55, 44], o vetor retornado deve ser [11, 11, 22, 33, 33, 55, 55, 44] e também o valor referenciado por n_retorno deve receber o valor 8 (comprimento do vetor retornado).
 <p>
 Observação: a função deve retornar um novo vetor e não alterar o vetor de entrada (v).
