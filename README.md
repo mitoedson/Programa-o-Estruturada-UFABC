@@ -44,7 +44,7 @@ A função deve ter o seguinte protótipo:<br>
 char *avanca_palavra(char *frase, char *trecho)
 <p>
 Importante: submeta apenas a função. Não use variáveis globais. Não inclua o main. Não use printf/puts/scanf/fscanf/fprintf e headers adicionais (por exemplo, stdio.h e string.h). Neste exercício, pode usar stdlib.h.
-<p>
+<p><br>
 Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
 <p>
 Entrada:<br>
