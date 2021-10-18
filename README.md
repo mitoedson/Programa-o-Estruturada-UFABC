@@ -37,4 +37,22 @@ elementos dos vetores 1 e 2 interlacados em ordem crescente (inclua um caractere
 <p>
 Importante: o programa não pode usar colchetes, portanto, será necessário utilizar aritmética de ponteiros para acessar os elementos dos vetores. Para alocar os vetores, use malloc.
   
-  
+<h4>03. Avança palavra:</h4>    
+Escreva uma função que procura um trecho de texto na frase e cria uma nova string com todo o conteúdo da frase a partir do trecho indicado. Por exemplo, para frase="Frase de teste." e trecho="de", a função deve criar uma nova string "de teste.". A função deve retornar NULL se não encontrar o trecho na frase. A função deve retornar uma nova string e não deve alterar o vetor com a frase passada para a função.
+<p>
+A função deve ter o seguinte protótipo:<br>
+char *avanca_palavra(char *frase, char *trecho)
+<p>
+Importante: submeta apenas a função. Não use variáveis globais. Não inclua o main. Não use printf/puts/scanf/fscanf/fprintf e headers adicionais (por exemplo, stdio.h e string.h). Neste exercício, pode usar stdlib.h.
+<p>
+Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
+<p>
+Entrada:<br>
+frase<br>
+trecho
+<p>
+Saída:<br>
+frase de entrada<br>
+string retornada pela função
+<p>
+Exercício adaptado de Prof. Fernando Teubl - Programação Estruturada 2020
