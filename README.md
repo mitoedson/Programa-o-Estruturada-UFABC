@@ -61,3 +61,21 @@ matriz alocada
 </pre>
 
 
+<h4>02. Multiplicação de matrizes:</h4>
+Escreva um programa que lerá duas matrizes A e B e depois imprime o resultado da multiplicação das matrizes.
+<p>
+Entrada:
+<pre>
+n_linhas_A n_colunas_A
+dados da matriz A (linha por linha)
+n_linhas_B n_colunas_B
+dados da matriz B (linha por linha)
+</pre>
+Saída:
+<pre>
+matriz resultado da multiplicação A x B
+</pre>
+Importante: utilize malloc para alocar vetores ou matrizes (não declare vetor ou matriz com colchetes). Para acessar as posições no vetor, pode usar colchetes neste exercício. Não use variáveis globais.
+<p>
+Lembre-se de liberar toda memória alocada com malloc/calloc!
+
