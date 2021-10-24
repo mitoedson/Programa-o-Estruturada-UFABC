@@ -19,3 +19,6 @@ https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/05.-Ponteiros---p
 
 <p><b>06. Ponteiros - parte 2</b><br>  
 https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/06.-Ponteiros---parte-2
+
+<p><b>07. Ponteiros - parte 3</b><br>  
+https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/07.-Ponteiros---parte-3
