@@ -79,3 +79,52 @@ Importante: utilize malloc para alocar vetores ou matrizes (não declare vetor o
 <p>
 Lembre-se de liberar toda memória alocada com malloc/calloc!
 
+Alocar vetor no parâmetro
+Data de entrega: quarta, 3 Nov 2021, 23:59
+Arquivos requeridos: vetor.c (Baixar)
+Tipo de trabalho: Trabalho individual
+Escreva a função intercala_vetores que recebe dois vetores v_a (tamanho n_a) e v_b (tamanho n_b) e aloca um novo vetor. O novo vetor deve possuir todos os números dos dois vetores de entrada em ordem crescente, intercalando os valores dos dois vetores. Assuma que os dois vetores estão ordenados em ordem crescente. Por exemplo, se os vetores passados nos parâmetros forem [1, 5, 8, 12, 90] e [2, 5, 7, 46], a função deverá alocar [1, 2, 5, 5, 7, 8, 12, 46, 90]. O vetor alocado deve ser retornado pelo parâmetro **v. Além disso a função retorna (return) o tamanho do vetor alocado.
+
+Protótipo da função:
+
+int intercala_vetores(int *v_a, int n_a, int *v_b, int n_b, int **v);
+
+
+Exemplo de código que pode ser usado para testar a chamada da função intercala_vetores (observação: deve ser submetida apenas a função intercala_vetores neste exercício, o código a seguir é apenas um exemplo para testar a função localmente):
+
+int *v_a = malloc(sizeof(int) * 3);
+v_a[0] = 10;
+v_a[1] = 30;
+v_a[2] = 50;
+int *v_b = malloc(sizeof(int) * 2);
+v_b[0] = 20;
+v_b[1] = 40;
+int *v_r;
+int n_r = intercala_vetores(v_a, 3, v_b, 2, &v_r);
+int i;
+for (i = 0; i < n_r; i++)
+	printf("%d ", v_r[i]);
+free(v_a);
+free(v_b);
+free(v_r);
+
+
+Importante: submeta apenas a função. Não use variáveis globais. Não inclua o main. Não use printf/puts/fprintf/scanf/fscanf e headers adicionais (por exemplo, stdio.h). Neste exercício, pode usar stdlib.h.
+
+
+
+Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
+
+Entrada:
+
+n_a
+elementos do vetor v_a
+n_b
+elementos do vetor v_b
+Saída:
+
+elementos do vetor v_a
+elementos do vetor v_b
+elementos do vetor alocado pela função (com os valores de v_a e v_b intercalados e em ordem crescente)
+Arquivos requeridos
+vetor.c
