@@ -122,3 +122,26 @@ elementos do vetor v_a
 elementos do vetor v_b
 elementos do vetor alocado pela função (com os valores de v_a e v_b intercalados e em ordem crescente)
 </pre>
+
+<h4>04. Separar palavras:</h4>
+Separar palavras
+Escreva a função separar_palavras que recebe uma frase (sem pontuação) e retorna uma estrutura com as palavras da frase na mesma ordem que aparecem na frase. Também deve ser retornada a quantidade de palavras no parâmetro n_palavras. A estrutura com as palavras será conforme mostra a figura a seguir. Observe que essa estrutura é similar ao conceito usado para alocar uma matriz dinamicamente, em que há um vetor de ponteiros e cada elemento desse vetor aponta para um vetor de char. Ou seja, cada ponteiro do vetor de ponteiros aponta para uma das palavras da frase.
+<p>
+Vetor de ponteiros.
+<p>
+Protótipo da função:
+<pre>
+char **separar_palavras(char *frase, int *n_palavras);
+</pre>
+Importante: submeta apenas a função. Não use variáveis globais. Não inclua o main. Não use printf/puts/fprintf/scanf/fscanf e headers adicionais (por exemplo, stdio.h). Neste exercício, pode usar stdlib.h.
+<p>
+Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
+<p>
+Entrada:
+<pre>
+frase
+</pre>
+Saída:
+<pre>
+lista com as palavras retornadas pela função separar_palavras
+</pre>
