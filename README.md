@@ -25,27 +25,20 @@ Programa usado para chamar as funções criar_matriz e liberar_matriz (este prog
 #include "matriz.h"
 
 void imprimir(double **matriz, int n_linhas, int n_colunas) {
-    
     int l, c;
     for (l = 0; l < n_linhas; l++) {
         for (c = 0; c < n_colunas; c++)
             printf("%.0lf ", matriz[l][c]);
         printf("\n");
     }
-    
 }
 
 int main() {
-    
     int n_linhas, n_colunas;
     scanf("%d %d", &n_linhas, &n_colunas);
-    
     double **m = criar_matriz(n_linhas, n_colunas);
-    
     imprimir(m, n_linhas, n_colunas);
-    
     liberar_matriz(m, n_linhas);
-    
     return 0;
 }
 </pre>
