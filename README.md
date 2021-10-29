@@ -2,7 +2,7 @@
 
 <h3>Lista de exercícios: </h3>
 
-<h4>01. Selection:</h4>
+<h4>01. Selection sort:</h4>
 Escreva um programa que receba um vetor de inteiros de tamanho N e ordene os seus elementos usando o algoritmo Selection Sort (ordem crescente).
 <p>
 Entrada:
