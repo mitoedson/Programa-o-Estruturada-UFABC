@@ -1,6 +1,5 @@
 <h1>07. Ponteiros - parte 3</h1>
-<h3>Listas produzidas</h3>:
-
+<h3>Lista de exercícios:</h3>:
 <h4>01. Alocação dinâmica de matriz:</h4>
 Escreva as funções criar_matriz e liberar_matriz.
 <p>
