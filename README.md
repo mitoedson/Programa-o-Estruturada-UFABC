@@ -1,4 +1,4 @@
-<h2>02. Introdução ao C</h2>
+<h2>02. Vetores, funções e passagem de parâmetros</h2>
 
 <h3>Lista de exercícios: </h3>
 
