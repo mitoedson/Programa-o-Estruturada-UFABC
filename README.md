@@ -1,5 +1,6 @@
-<h1>04. Recursão</h1>
-<h3>Listas produzidas</h3>:
+<h2>04. Recursão</h2>
+
+<h3>Lista de exercícios: </h3>
 
 <h4>01. Conta frequência:</h4>
 Desenvolva uma função recursiva contafreq que recebe dois números naturais e indique a frequência com que o segundo número aparece no primeiro. O segundo número sempre será menor do que 10.
