@@ -22,3 +22,6 @@ https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/06.-Ponteiros---p
 
 <p><b>07. Ponteiros - parte 3</b><br>  
 https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/07.-Ponteiros---parte-3
+
+<p><b>08. Ordenação simples, busca</b><br>  
+https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/08.-Ordena%C3%A7%C3%A3o-simples%2C-busca
