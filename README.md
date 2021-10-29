@@ -1,5 +1,6 @@
-<h1>03. String, Matrizes</h1>
-<h3>Listas produzidas</h3>:
+<h2>03. String, Matrizes</h2>
+
+<h3>Lista de exercícios: </h3>
 
 <h4>01. Conta palavras:</h4>
 Faça um programa que leia uma frase (no máximo 100 caracteres) e imprima a quantidade de palavras na frase lida.
