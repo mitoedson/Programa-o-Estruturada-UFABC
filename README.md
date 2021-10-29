@@ -1,5 +1,6 @@
-<h1>02. Introdução ao C</h1>
-<h3>Listas produzidas</h3>:
+<h2>02. Introdução ao C</h2>
+
+<h3>Lista de exercícios: </h3>
 
 <h4>1. Códigos de produtos:</h4>
 Uma empresa registra o código de cada produto vendido ao longo do dia em uma lista. O gerente gostaria que, ao adicionar um código na lista, essa lista se mantenha ordenada (em ordem crescente). Dessa forma, ao final do dia, é mais fácil verificar quais produtos foram vendidos.
