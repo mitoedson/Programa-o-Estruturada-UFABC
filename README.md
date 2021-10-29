@@ -1,5 +1,6 @@
-<h1>06. Ponteiros - parte 2</h1>
-<h3>Listas produzidas</h3>:
+<h2>06. Ponteiros - parte 2</h2>
+
+<h3>Lista de exercícios: </h3>
 
 <h4>01. Vetor com valores duplicados:</h4>
 Escreva a função duplica_impares, que recebe um vetor de inteiros (v) de comprimento n_entrada e retorna outro vetor com todos os números ímpares duplicados. A função também retorna (por referência) a quantidade de elementos no vetor retornado (n_retorno).
