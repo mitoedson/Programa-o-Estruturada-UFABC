@@ -25,3 +25,6 @@ https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/07.-Ponteiros---p
 
 <p><b>08. Ordenação simples, busca</b><br>  
 https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/08.-Ordena%C3%A7%C3%A3o-simples%2C-busca
+
+<p><b>09. Estruturas e arquivos</b><br>    
+https://github.com/mitoedson/Programa-o-Estruturada-UFABC/tree/09.-Estruturas-e-arquivos
