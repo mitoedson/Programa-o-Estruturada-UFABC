@@ -24,7 +24,7 @@ A definição da struct LinkedNode já existe no sistema de correção automáti
 #include "lista.h"
 </pre>
 Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
-<p>
+<p><br>
 Entrada:
 <pre>
 quantidade de itens na lista
@@ -59,7 +59,7 @@ A definição da struct LinkedNode já existe no sistema de correção automáti
 #include "comparar_listas.h"
 </pre>
 Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
-<p>
+<p><br>
 Entrada:
 <pre>
 quantidade de itens na lista1
@@ -100,7 +100,7 @@ A definição da struct LinkedNode já existe no sistema de correção automáti
 #include "inserir.h"
 </pre>
 Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
-<p>
+<p><br>
 Entrada:
 <pre>
 quantidade de itens na lista
