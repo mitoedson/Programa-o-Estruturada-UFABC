@@ -28,7 +28,7 @@ A definição da struct LinkedNode já existe no sistema de correção automáti
 #include "dna.h"
 </pre>
 Formato do caso de teste: esse é o formato dos casos de teste que aparecem ao avaliar a atividade; não inclua impressão de dados no código, essa impressão é feita automaticamente pelo sistema de correção de acordo com o retorno da função submetida.
-<p>
+<p><br>
 Entrada:
 <pre>
 sequência de bases
